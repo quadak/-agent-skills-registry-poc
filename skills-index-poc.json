@@ -3,7 +3,7 @@
   "source": {
     "provider": "github",
     "repository": "vercel-labs/open-agents",
-    "revision": "main",
+    "revision": "cf865e94de7729751c747171785b6ce57e7b178c",
     "skill_root": ".agents/skills"
   },
   "skills": [
